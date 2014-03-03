@@ -1,0 +1,19 @@
+{
+  "name": "ic-datatable",
+  "version": "0.0.0",
+  "authors": [
+    "Eric Berry <coderberry@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "ember": "~1.0.0",
+    "requirejs": "~2.1.8",
+    "datatables": "~1.9.4"
+  }
+}
